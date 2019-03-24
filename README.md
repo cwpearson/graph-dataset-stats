@@ -40,6 +40,7 @@ A2a | ![](hist_id/A2a.png) | ![](hist_nbrs/A2a.png)
 P1a | ![](hist_id/P1a.png) | ![](hist_nbrs/P1a.png)
 U1a | ![](hist_id/U1a.png) | ![](hist_nbrs/U1a.png)
 V1r | ![](hist_id/V1r.png) | ![](hist_nbrs/V1r.png)
+V2a | ![](hist_id/V2a.png) | ![](hist_nbrs/V2a.png)
 
 ## GraphChallenge
 
