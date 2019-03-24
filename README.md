@@ -2,7 +2,7 @@
 
 Gathered from [cwpearson/graph-datasets](https://github.com/cwpearson/graph-datasets)
 
-## SNAP
+## [SNAP](https://snap.stanford.edu/data/index.html)
 
 | Graph | edges binned by node IDs | edges binned by node nbr list size |
 |-|-|-|
