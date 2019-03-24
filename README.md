@@ -4,7 +4,7 @@ Gathered from [cwpearson/graph-datasets](https://github.com/cwpearson/graph-data
 
 ## SNAP
 
-| a | edges binned by node IDs | edges binned by node nbr list size |
+| Graph | edges binned by node IDs | edges binned by node nbr list size |
 |-|-|-|
 201512012345.v18571154_e38040320 | ![](hist_id/201512012345.v18571154_e38040320.png) | ![](hist_nbrs/201512012345.v18571154_e38040320.png)
 201512020330.v226196185_e480047894 | ![](hist_id/201512020330.v226196185_e480047894.png) | ![](hist_nbrs/201512020330.v226196185_e480047894.png)
@@ -34,14 +34,16 @@ soc-Slashdot0902_adj | ![](hist_id/soc-Slashdot0902_adj.png) | ![](hist_nbrs/soc
 
 ## K-mer
 
-| a | edge binned by ID | nz binned by neighbor list |
+| Graph | edge binned by ID | nz binned by neighbor list |
 |-|-|-|
 A2a | ![](hist_id/A2a.png) | ![](hist_nbrs/A2a.png)
+P1a | ![](hist_id/P1a.png) | ![](hist_nbrs/P1a.png)
 U1a | ![](hist_id/U1a.png) | ![](hist_nbrs/U1a.png)
+V1r | ![](hist_id/V1r.png) | ![](hist_nbrs/V1r.png)
 
 ## GraphChallenge
 
-| a | edge binned by ID | nz binned by neighbor list |
+| Graph | edge binned by ID | nz binned by neighbor list |
 |-|-|-|
 graph500-scale18-ef16_adj | ![](hist_id/graph500-scale18-ef16_adj.png) | ![](hist_nbrs/graph500-scale18-ef16_adj.png)
 graph500-scale19-ef16_adj | ![](hist_id/graph500-scale19-ef16_adj.png) | ![](hist_nbrs/graph500-scale19-ef16_adj.png)
