@@ -24,4 +24,4 @@ U1a | ![](hist_id/U1a.png) | ![](hist_nbrs/U1a.png)
 
 | a | edge binned by ID | nz binned by neighbor list |
 |-|-|-|
-graph500-scale18-ef16_adj | ![](hist_id/graph500-scale18-ef16_adj.png) | ![](hist_nbrs/graph500-scale18-ef16_adj.png)
+graph500-scale18-ef16_adj | ![](hist_id/graph500-scale18-ef16_adj.png) | ![](hist_nbrs/graph500-scale18-ef16_adj.png)# graph-dataset-stats
