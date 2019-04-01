@@ -2,10 +2,8 @@
 
 ## SNAP
 
-| Graph | edges binned by node IDs | edges binned by node nbr list size |
+| Graph | edge binned by ID | nz binned by neighbor list |
 |-|-|-|
-201512012345.v18571154_e38040320 | ![](../hist_id/201512012345.v18571154_e38040320.png) | ![](../hist_nbrs/201512012345.v18571154_e38040320.png)
-201512020330.v226196185_e480047894 | ![](../hist_id/201512020330.v226196185_e480047894.png) | ![](../hist_nbrs/201512020330.v226196185_e480047894.png)
 amazon0302_adj | ![](../hist_id/amazon0302_adj.png) | ![](../hist_nbrs/amazon0302_adj.png)
 amazon0312_adj | ![](../hist_id/amazon0312_adj.png) | ![](../hist_nbrs/amazon0312_adj.png)
 amazon0505_adj | ![](../hist_id/amazon0505_adj.png) | ![](../hist_nbrs/amazon0505_adj.png)
@@ -39,6 +37,16 @@ P1a | ![](../hist_id/P1a.png) | ![](../hist_nbrs/P1a.png)
 U1a | ![](../hist_id/U1a.png) | ![](../hist_nbrs/U1a.png)
 V1r | ![](../hist_id/V1r.png) | ![](../hist_nbrs/V1r.png)
 V2a | ![](../hist_id/V2a.png) | ![](../hist_nbrs/V2a.png)
+
+## MAWI
+
+| Graph | edges binned by node IDs | edges binned by node nbr list size |
+|-|-|-|
+201512012345.v18571154_e38040320   | ![](../hist_id/201512012345.v18571154_e38040320.png)   | ![](../hist_nbrs/201512012345.v18571154_e38040320.png)
+201512020330.v226196185_e480047894 | ![](../hist_id/201512020330.v226196185_e480047894.png) | ![](../hist_nbrs/201512020330.v226196185_e480047894.png)
+201512020000.v35991342_e74485420   | ![](../hist_id/201512020000.v35991342_e74485420.png)   | ![](../hist_nbrs/201512020000.v35991342_e74485420.png)
+201512020030.v68863315_e143414960  | ![](../hist_id/201512020030.v68863315_e143414960.png)  | ![](../hist_nbrs/201512020030.v68863315_e143414960.png)
+201512020130.v128568730_e270234840 | ![](../hist_id/201512020130.v128568730_e270234840.png) | ![](../hist_nbrs/201512020130.v128568730_e270234840.png)
 
 ## Graph Challenge "Synthetic"
 
