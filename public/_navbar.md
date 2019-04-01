@@ -1,3 +1,3 @@
 * [Home](/)
-* [Viz](viz/)
-* [Raw Data](raw/)
+* [Visualization](visualization.md)
+* [Raw Data](raw_data.md)
