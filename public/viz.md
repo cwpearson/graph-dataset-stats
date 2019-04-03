@@ -1,6 +1,6 @@
-# viz
+# Visualization
 
-## SNAP
+## SNAP Datasets
 
 | Graph | edges binned by node IDs | edges binned by node nbr list size |
 |-|-|-|
@@ -30,7 +30,9 @@ roadNet-PA_adj | ![](../hist_id/roadNet-PA_adj.png) | ![](../hist_nbrs/roadNet-P
 roadNet-TX_adj | ![](../hist_id/roadNet-TX_adj.png) | ![](../hist_nbrs/roadNet-TX_adj.png)
 soc-Slashdot0902_adj | ![](../hist_id/soc-Slashdot0902_adj.png) | ![](../hist_nbrs/soc-Slashdot0902_adj.png)
 
-## kmer
+## Protein k-mer Graphs
+
+> Protein k-mer graphs generated using data from GenBank: https://www.ncbi.nlm.nih.gov/genbank/ are available below. Nodes of the graph represent segments of amino acids.
 
 | Graph | edge binned by ID | nz binned by neighbor list |
 |-|-|-|
@@ -40,7 +42,11 @@ U1a | ![](../hist_id/U1a.png) | ![](../hist_nbrs/U1a.png)
 V1r | ![](../hist_id/V1r.png) | ![](../hist_nbrs/V1r.png)
 V2a | ![](../hist_id/V2a.png) | ![](../hist_nbrs/V2a.png)
 
-## GraphChallenge
+## MAWI Datasets
+
+Coming soon?
+
+## GraphChallenge - "Synthetic Datasets"
 
 | Graph | edge binned by ID | nz binned by neighbor list |
 |-|-|-|
@@ -51,7 +57,16 @@ graph500-scale21-ef16_adj | ![](../hist_id/graph500-scale21-ef16_adj.png) | ![](
 graph500-scale22-ef16_adj | ![](../hist_id/graph500-scale22-ef16_adj.png) | ![](../hist_nbrs/graph500-scale22-ef16_adj.png)
 graph500-scale23-ef16_adj | ![](../hist_id/graph500-scale23-ef16_adj.png) | ![](../hist_nbrs/graph500-scale23-ef16_adj.png)
 graph500-scale24-ef16_adj | ![](../hist_id/graph500-scale24-ef16_adj.png) | ![](../hist_nbrs/graph500-scale24-ef16_adj.png)
+
+## GraphChallenge- "Graphs with Zero Triangles"
+
 Theory-16-25-81-Bk | ![](../hist_id/Theory-16-25-81-Bk.png) | ![](../hist_nbrs/Theory-16-25-81-Bk.png)
+
+## GraphChallenge- "Graphs with Many Triangles"
+
 Theory-16-25-81-B1k | ![](../hist_id/Theory-16-25-81-B1k.png) | ![](../hist_nbrs/Theory-16-25-81-B1k.png)
+
+## GraphChallenge- "Graphs with Some Triangles"
+
 Theory-16-25-81-B2k | ![](../hist_id/Theory-16-25-81-B2k.png) | ![](../hist_nbrs/Theory-16-25-81-B2k.png)
 
