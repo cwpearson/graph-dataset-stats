@@ -1,3 +1,3 @@
 * [Home](/)
-* [Visualizations](viz.md)
+* [Visualization](visualization.md)
 * <a href="/table.html">Raw Data</a>
