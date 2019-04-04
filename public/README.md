@@ -4,8 +4,6 @@
 
 This site presents some analysis and visualization results of [Graph Challenge](https://graphchallenge.mit.edu) datasets.
 
-a b <a href="/table.html">hello world</a> c
-
 ## [cwpearson/graph-datasets](https://github.com/cwpearson/graph-datasets)
 
 cwpearson/graph-datasets holds tools for acquiring and analyzing the Graph Challenge datasets.
