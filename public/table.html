@@ -173,9 +173,9 @@
                     if (sortAscending) {
                         rows.sort(function (a, b) {
                             if (isNaN(Number(b[d])) || isNaN(Number(a[d]))) {
-                                return b[d] < a[d];
+                                return b[d] < a[d]?1:-1;
                             } else {
-                                return Number(b[d]) < Number(a[d]);
+                                return Number(b[d]) < Number(a[d])?1:-1;
                             }
                         });
                         sortAscending = false;
@@ -183,9 +183,9 @@
                     } else {
                         rows.sort(function (a, b) {
                             if (isNaN(Number(b[d])) || isNaN(Number(a[d]))) {
-                                return b[d] > a[d];
+                                return b[d] > a[d]?1:-1;
                             } else {
-                                return Number(b[d]) > Number(a[d]);
+                                return Number(b[d]) > Number(a[d])?1:-1;
                             }
                         });
                         sortAscending = true;
