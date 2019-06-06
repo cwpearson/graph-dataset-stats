@@ -7,3 +7,24 @@ Source for [https://graphchallenge-datasets.netlify.com](https://graphchallenge-
 Gathered from [cwpearson/graph-datasets](https://github.com/cwpearson/graph-datasets)
 
 *Carl Pearson* - cwpearson.github.io
+
+## Modifying the site
+
+The website is defined as a set of markdown files which are loaded and parsed by docsify.
+
+To test locally, you need to serve the website.
+On Linux or MacOS, try
+
+```
+cd public
+python -m SimpleHTTPServer
+```
+
+or possibly on Windows
+
+```
+cd public
+python -m http.server
+```
+
+Navigate to localhost:8000 in your browser of choice.
